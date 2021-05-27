@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently a web developer (more frontend) intern 🔭. I am improving myself in UI design, PHP, Laravel, and React. In my free time, I journal, read books, play video games and do life chores.
+
 <!--
 **HindTayeb/hindtayeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
