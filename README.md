@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm currently a web developer (more frontend) intern 🔭. 
-I am improving myself in UI design, PHP, Laravel, and React. 
+I'm currently a frontend developer 🔭. 
+I am improving myself in UI design, PHP, Laravel, and VueJS. 
 In my free time, I journal, read books, play video games and do life chores.
 
 <!--
