@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm currently software/frontend developer 🔭. 
-I am improving myself in UI design, PHP, Laravel, and VueJS. 
+I'm a software/frontend developer 🔭. 
+Currently I am learning Angular and improving my skills at it.
 In my free time, I journal, read books, watch anime, play video games and do life chores.
 
 profile pic credits: https://www.instagram.com/atrusovaartist/
