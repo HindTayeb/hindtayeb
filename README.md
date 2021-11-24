@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a software/frontend developer 🔭. 
-Currently I am learning Angular and improving my skills at it.
+Currently learning Angular and improving my skills at it.
 In my free time, I journal, read books, watch anime, play video games and do life chores.
 
 profile pic credits: https://www.instagram.com/atrusovaartist/
