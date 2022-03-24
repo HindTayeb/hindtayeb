@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/CodePen-lightgray?style=plastic" alt="CodePen Badge"/>
 </a></li>
   <li>I'm currently planning for creative artistic personal projects 🎨 </li>
-  <li>you can reach me at <a href = "mailto: hindjtayeb@gmail.com">hindjtayeb@gmail.com</a>  or through my <a href="https://codepen.io/hindtayeb">
+  <li>you can reach me at <a href = "mailto: hindjtayeb@gmail.com">hindjtayeb@gmail.com</a>  or through my <a href="https://www.linkedin.com/in/hendtayeb/">
   <img src="https://img.shields.io/badge/Linkedin-blue?style=plastic" alt="Linkedin Badge"/>
 </a> </li>
 
